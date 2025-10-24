@@ -158,7 +158,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/Example",
+					url: "https://github.com/Andras5014",
 					external: true,
 					icon: "fa6-brands:github",
 				},
