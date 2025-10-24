@@ -22,7 +22,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
 	title: "Twilight",
-	subtitle: "Blog Template",
+	subtitle: "A Daily Blog",
 
 	lang: SITE_LANG,
 
@@ -224,7 +224,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/Spr-Aachen/Twilight",
+			url: "https://github.com/Andras5014",
 		},
 	],
 };
