@@ -28,7 +28,7 @@ export const projectsData: Project[] = [
 		techStack: ["Astro", "Svelte", "Tailwind CSS"],
 		status: "completed",
 		liveDemo: "https://blog.spr-aachen.com",
-		sourceCode: "https://github.com/Spr-Aachen/Twilight",
+		sourceCode: "https://github.com/KNICEX/InkFlow",
 		startDate: "2025-10-01",
 		endDate: "2025-10-10",
 		featured: false,
